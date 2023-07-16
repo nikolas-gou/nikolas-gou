@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikolaos Gkouziotis</h1>
-<h3 align="center">A Bachelor Student in the Computer Science department of the University of Thessaly and I am going through the last year of my studies. I'm intrested in problem solving, creating new projects and learning different things.</h3>
+<h3 align="center">A Bachelor Student in the department of Computer Science of the University of Thessaly and I am going through the last year of my studies. I'm intrested in problem solving, creating new projects and learn different things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikolas-gou&label=Profile%20views&color=0e75b6&style=flat" alt="nikolas-gou" /> </p>
 
