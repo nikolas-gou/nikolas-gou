@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Algorithms, Data Structures, MPI, WebDev**
 
-- 📫 How to reach me **nikolasgou23@gmail.com**
+- 📫 How to reach me **nikolasgkouz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
