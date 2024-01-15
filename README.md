@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, Slim**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nikolas-gou?tab=repositories](https://github.com/nikolas-gou?tab=repositories)
+- 👨‍💻 Some of my projects are available at [https://github.com/nikolas-gou?tab=repositories](https://github.com/nikolas-gou?tab=repositories)
 
 - 💬 Ask me about **Algorithms, Data Structures, MPI, WebDev**
 
