@@ -2,8 +2,8 @@
 
 Frontend Engineer
 
-I’m an engineer focused on building scalable web applications and production-ready systems.
-I enjoy understanding how systems work under the hood, solving complex problems, and designing clean, maintainable architectures.
+Frontend Engineer specializing in React and scalable web applications.
+Focused on building production-ready full-stack systems, clean architecture and performant frontend solutions.
 
 ## Links
 
