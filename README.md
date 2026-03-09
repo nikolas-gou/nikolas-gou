@@ -1,97 +1,60 @@
-<h1 align="center">Nikolaos Gkouziotis</h1>
-<h3 align="center">Frontend Engineer | React Developer | Full-Stack Systems</h3>
+# Nikolaos Gkouziotis
 
-<p align="center">
-Building scalable web applications with a focus on clean architecture, performance and production-ready systems.
-</p>
+Frontend Engineer
 
----
+I’m an engineer focused on building scalable web applications and production-ready systems.
+I enjoy understanding how systems work under the hood, solving complex problems, and designing clean, maintainable architectures.
 
-## 👨‍💻 About Me
+## Links
 
-• Frontend Engineer focused on **React and modern web architectures**  
-• Experience designing and delivering **production-grade full-stack applications**  
-• Strong interest in **system design, performance optimization and scalable software**  
-• Background in **Algorithms, Data Structures and Parallel Computing (MPI)**  
+* LinkedIn — https://www.linkedin.com/in/nikolaosgkouziotis/
+* GitHub Projects — https://github.com/nikolas-gou?tab=repositories
+* LeetCode — https://leetcode.com/nikolasgou
+* HackerRank — https://www.hackerrank.com/nikolasgou23
 
----
+## Tech Stack
 
-## 🚀 What I Work With
+<table>
+<tr>
+<td valign="top">
 
 **Frontend**
-- React
-- JavaScript
-- HTML5 / CSS3
+
+React
+JavaScript
+HTML
+CSS
+
+</td>
+
+<td valign="top">
 
 **Backend**
-- PHP
-- Slim Framework
-- REST APIs
 
-**Databases**
-- MySQL
+PHP
+Slim Framework
+REST APIs
 
-**Systems & Tools**
-- Git
-- Linux
-- Bash
+</td>
 
-**Programming**
-- C
-- Java
-- Python
+<td valign="top">
 
----
+**Database**
 
-## 📂 Featured Work
+MySQL
 
-You can explore my projects here:
+</td>
 
-➡️ https://github.com/nikolas-gou?tab=repositories
+<td valign="top">
 
-Projects focus on:
+**Languages / Tools**
 
-- full-stack web applications
-- scalable frontend architectures
-- API development
-- system-level programming
-- algorithmic problem solving
+C
+Java
+Python
+Git
+Linux
 
----
-
-## 🌐 Connect With Me
-
-LinkedIn  
-https://www.linkedin.com/in/nikolaosgkouziotis/
-
-HackerRank  
-https://www.hackerrank.com/nikolasgou23
-
-LeetCode  
-https://leetcode.com/nikolasgou
-
-Email  
-nikolasgkouz@gmail.com
-
----
-
-## ⚙️ Tech Stack
-
-<p align="left">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-
-</p>
+</td>
+</tr>
+</table>
