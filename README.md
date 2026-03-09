@@ -2,8 +2,8 @@
 
 Frontend Engineer
 
-Frontend Engineer specializing in React and scalable web applications.
-Focused on building production-ready full-stack systems, clean architecture and performant frontend solutions.
+React-focused engineer building scalable frontend applications and well-structured web systems.
+Focused on production-ready solutions, clean architecture, and performant frontend architectures.
 
 ## Links
 
